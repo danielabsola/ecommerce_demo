@@ -35,7 +35,10 @@ Simular el backend de una tienda online desde el punto de vista del modelado de 
 
 ---
 
-### 📫 Sobre mí
+### 📫 Contacto
 
-Soy analista funcional y data engineer con experiencia en el diseño de soluciones de datos, modelado eficiente y automatización de procesos. Este tipo de ejercicios me permite reforzar los fundamentos que aplico en proyectos reales.
+[Gmail] (dbshoy@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/daniela-beatriz-sola-587b902b)  
+[GitHub](https://github.com/danielabsola)
+[Malt](https://www.malt.es/profile/danielabeatrizsola)
 
